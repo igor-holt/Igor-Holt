@@ -3,7 +3,7 @@
 <!--
 **igor-holt/Igor-Holt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Highly motivated software engineer and data scientist with experience in machine learning, natural language processing, and web development. Passionate about innovation, collaboration, and continuous learning.
+## Highly motivated software engineer and data scientist with experience in machine learning, natural language processing, and web development. Passionate about innovation, collaboration, and continuous learning.
 
 Expertise
 
@@ -21,6 +21,7 @@ Interests
 - AI/ML research and applications
 - Data visualization and storytelling
 - Full-stack web development
+![Igor Holt](https://github.com/user-attachments/assets/d2b6a6af-4e0e-4b51-98db-503409735649)
 
 Collaboration
 
