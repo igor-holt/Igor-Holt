@@ -20,7 +20,6 @@ Interests
 - Full-stack web development
 
   
-![Igor Holt](https://github.com/user-attachments/assets/d2b6a6af-4e0e-4b51-98db-503409735649)
 
 Collaboration
 
