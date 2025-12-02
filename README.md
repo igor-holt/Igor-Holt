@@ -49,8 +49,9 @@ This is a cryptographic suite I'm developing to supersede current Verifiable Cre
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** `[Your LinkedIn URL Here]`
-* **Email:** `[Your Professional Email Here]`
+* **LinkedIn:** `[(https://www.linkedin.com/in/igor-holt/)]`
+* **Email:** `holt.igor@gmail.com`
+
 # LID-LIFT Orchestrator v1.4
 
 **Principal Architect:** Igor Holt
