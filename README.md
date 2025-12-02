@@ -51,4 +51,12 @@ This is a cryptographic suite I'm developing to supersede current Verifiable Cre
 
 * **LinkedIn:** `[Your LinkedIn URL Here]`
 * **Email:** `[Your Professional Email Here]`
-* **ArXiv/ResearchGate:** `[Link to your papers when public]`
+# LID-LIFT Orchestrator v1.4
+
+**Principal Architect:** Igor Holt
+
+| Paper | DOI / Status |
+| :--- | :--- |
+| **WP-001: The Protocol** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784144.svg)](https://doi.org/10.5281/zenodo.17784144) |
+| **WP-002: Landauer Context** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784836.svg)](https://doi.org/10.5281/zenodo.17784836) |
+| **WP-003: Dissonance Eviction** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784838.svg)](https://doi.org/10.5281/zenodo.17784838) |
