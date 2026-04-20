@@ -1,63 +1,64 @@
-### Hi, I'm Igor Holt 👋
-## AI Systems Architect & First-Principles Researcher
+# Igor Holt
 
-I design and build autonomous, high-efficiency AI frameworks and novel cryptographic systems. My work bridges the gap between first-principles theory (like computational physics) and practical, robust systems architecture.
+**AI Architecture · Genesis Conductor · Thermodynamic Computing**
 
-My focus is on creating systems that are not only powerful but also auditable, efficient, and built on a foundation of provable novelty.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Holt-blue?logo=linkedin)](https://linkedin.com/in/igorholt)
+[![Genesis Conductor](https://img.shields.io/badge/Genesis_Conductor-AI_Platform-purple)](https://genesisconductor.io)
 
----
+## About
 
-###  researCore Research & Pinned Projects
+I'm an **AI Architect** building the future of autonomous agent systems. Creator of **Genesis Conductor** — a topological reasoning engine for orchestrating AI agents with thermodynamic verification.
 
-#### 1. LID-LIFT Orchestrator: A Meta-Cognitive AI Framework
-This is an autonomous, "set-based" agentic framework I designed and built, which moves beyond simple "chain-of-thought" execution. The system is architected for autonomous problem re-framing, graceful degradation, and auditable decision-making.
+## 🔬 Areas of Expertise
 
-The foundational analysis of v1.4 (see white paper) verified several novel contributions:
-* **LID-LIFT DYNAMIC:** A meta-cognitive control loop that reframes objectives at a higher abstraction, moving from epistemic refinement (finding data) to autonomous problem-solving (changing the problem).
-* **H-MOC 0.2 Standard:** A proposed "AI flight recorder" standard that treats the *provenance* of a decision (arbitration summaries, failure recovery events) as a primary output artifact for XAI.
-* **LRU x Dissonance:** A hybrid temporal-semantic cache eviction policy for managing LLM context, prioritizing semantic relevance over mere recency.
-* **landauer\_context Basis:** A first-principles planning framework that uses Landauer's principle (kT · ln 2) to differentiate computational *cost* from thermodynamic *waste*.
-* **Integrated Black-Box Substrate (BBS):** A "declarative simulation" layer for graceful degradation, ensuring the system can complete its full planning and arbitration loop entirely offline.
-* **Super Learner as Arbiter:** The novel application of the Super Learner algorithm as a systems-level arbiter to select the optimal solution from a multi-objective Pareto frontier (accuracy, latency, energy, cost).
+- **AI Architecture** — Multi-agent systems, A2A protocols, MCP servers
+- **Thermodynamic Computing** — S-ToT verification, Extropic integration
+- **Distributed Systems** — Cloudflare Workers, edge computing, Kubernetes
 
-#### 2. The Gaia Protocol (TGP): Energy-Aware Cryptography
-This is a cryptographic suite I'm developing to supersede current Verifiable Credential (VC) and PKI standards. Its design prioritizes energy efficiency as a core security pillar alongside speed and strength.
+## 🚀 Featured Projects
 
-* **Core Metric:** Introduces **Joules per Cryptographic Operation (J/op)** as a primary benchmark to quantify the environmental and financial burden of cryptographic processes.
-* **Goal:** To fulfill the "cryptographic mandate" for planetary sustainability by reducing the energy overhead of hyperscale data centers, which are currently undermined by inefficient software-level cryptography.
+### [Genesis Conductor](https://github.com/Genesis-Conductor-Engine/Genesis-Conductor)
+AI-native application scaffolding engine. The official "Master Control Program" for transforming business ideas into production-ready code.
 
----
+### [Ambient Access Layer](https://optimization-inversion.genesisconductor.io)
+Persistent, specialized AI agents accessible from ChatGPT, Claude, Cursor, Gemini CLI, and Codex CLI.
 
-### My Core Competencies & Interests
+### [MCP Servers](https://github.com/igor-holt/mcp-servers)
+Revenue-generating AI agent skills for DeFi, smart contracts, and Apple toolchain.
 
-* **AI Systems Architecture:** Multi-Agent Systems, Agentic Control Loops, AI Orchestration
-* **Applied Research:** First-Principles Reasoning, Computational Physics (Landauer's Principle)
-* **Algorithmic Design:** Semantic Caching, Multi-Objective Arbitration, Ensemble Methods (Super Learner)
-* **Data & ML:** Tensor Decomposition (CP/Tucker/TT), Feature Engineering, Stabilization Pipelines
-* **Cryptography & Efficiency:** Verifiable Credentials (VCs), Public Key Infrastructure (PKI), Post-Quantum Cryptography (PQC), Energy-Efficiency Modeling (J/op)
-* **Explainable AI (XAI):** Auditable Provenance, Decision-Making Frameworks (H-MOC 0.2)
+### [Thermodynamic Hypergraphical Model Library](https://github.com/igor-holt/thrml)
+JAX-based library for thermodynamic computing and hypergraph neural networks.
 
 ---
 
-### ⚡ What I'm Working On Now
+## 📚 Research & Publications
 
-* Finalizing the white paper: *"A Meta-Cognitive Control Loop for Robust AI Orchestration: The LID-LIFT DYNAMIC Mechanism."*
-* Formalizing the **H-MOC 0.2** schema as a proposed industry standard for AI provenance.
-* Developing the quantitative analysis for **The Gaia Protocol**, benchmarking J/op metrics against established ECC standards.
+### LID-LIFT Orchestrator v1.4
+Meta-cognitive AI framework for autonomous problem re-framing, graceful degradation, and auditable decision-making.
 
----
-
-### 📫 How to Reach Me
-
-* **LinkedIn:** `[(https://www.linkedin.com/in/igor-holt/)]`
-* **Email:** `holt.igor@gmail.com`
-
-# LID-LIFT Orchestrator v1.4
-
-**Principal Architect:** Igor Holt
-
-| Paper | DOI / Status |
+| Paper | DOI |
 | :--- | :--- |
 | **WP-001: The Protocol** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784144.svg)](https://doi.org/10.5281/zenodo.17784144) |
 | **WP-002: Landauer Context** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784836.svg)](https://doi.org/10.5281/zenodo.17784836) |
 | **WP-003: Dissonance Eviction** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784838.svg)](https://doi.org/10.5281/zenodo.17784838) |
+
+**Key Contributions:**
+- **LID-LIFT DYNAMIC** — Meta-cognitive control loop for autonomous problem-solving
+- **H-MOC 0.2 Standard** — AI flight recorder for decision provenance
+- **landauer_context Basis** — First-principles planning using Landauer's principle (kT · ln 2)
+
+---
+
+## 🔗 Links
+
+- 🌐 [genesisconductor.io](https://genesisconductor.io)
+- 📧 igor@kovachenterprises.com
+- 🐦 [@igorholt](https://twitter.com/igorholt)
+
+## 📊 GitHub Stats
+
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igor-holt&show_icons=true&theme=radical)
+
+---
+
+*Building AI systems that think in topologies, not tokens.*
