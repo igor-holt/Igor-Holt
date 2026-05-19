@@ -2,7 +2,7 @@
 
 **AI Architecture · Genesis Conductor · Thermodynamic Computing**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Holt-blue?logo=linkedin)](https://linkedin.com/in/igorholt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Holt-blue?logo=linkedin)](https://linkedin.com/in/igoraholt)
 [![Genesis Conductor](https://img.shields.io/badge/Genesis_Conductor-AI_Platform-purple)](https://genesisconductor.io)
 
 ## About
@@ -41,11 +41,13 @@ Meta-cognitive AI framework for autonomous problem re-framing, graceful degradat
 | **WP-001: The Protocol** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784144.svg)](https://doi.org/10.5281/zenodo.17784144) |
 | **WP-002: Landauer Context** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784836.svg)](https://doi.org/10.5281/zenodo.17784836) |
 | **WP-003: Dissonance Eviction** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784838.svg)](https://doi.org/10.5281/zenodo.17784838) |
+| **WP-004: Seismic Tree-of-Thought (S-ToT)** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18730653.svg)](https://doi.org/10.5281/zenodo.18730653) |
 
 **Key Contributions:**
 - **LID-LIFT DYNAMIC** — Meta-cognitive control loop for autonomous problem-solving
 - **H-MOC 0.2 Standard** — AI flight recorder for decision provenance
 - **landauer_context Basis** — First-principles planning using Landauer's principle (kT · ln 2)
+- **S-ToT Verification** — Seismic Tree-of-Thought reasoning protocol for thermodynamic validation
 
 ---
 
