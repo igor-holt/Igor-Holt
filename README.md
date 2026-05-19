@@ -53,7 +53,7 @@ Meta-cognitive AI framework for autonomous problem re-framing, graceful degradat
 
 - 🌐 [genesisconductor.io](https://genesisconductor.io)
 - 📧 igor@kovachenterprises.com
-- 🐦 [@igorholt](https://twitter.com/igorholt)
+- 🐦 [@Holt_Igor on X](https://twitter.com/holt_igor)
 
 ## 📊 GitHub Stats
 
