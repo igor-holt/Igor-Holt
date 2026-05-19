@@ -2,12 +2,12 @@
 
 **AI Architecture · Genesis Conductor · Thermodynamic Computing**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Holt-blue?logo=linkedin)](https://linkedin.com/in/igoraholt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Holt-blue?logo=linkedin)](https://www.linkedin.com/in/igor-holt/)
 [![Genesis Conductor](https://img.shields.io/badge/Genesis_Conductor-AI_Platform-purple)](https://genesisconductor.io)
 
 ## About
 
-I'm an **AI Architect** building the future of autonomous agent systems. Creator of **Genesis Conductor** — a topological reasoning engine for orchestrating AI agents with thermodynamic verification.
+I'm an **AI Architect** building the future of autonomous agent systems. Creator of **Genesis Conductor** — a topological reasoning engine for orchestrating AI agents with thermodynamic verification[...]
 
 ## 🔬 Areas of Expertise
 
