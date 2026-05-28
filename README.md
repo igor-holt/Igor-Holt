@@ -29,6 +29,30 @@ Revenue-generating AI agent skills for DeFi, smart contracts, and Apple toolchai
 ### [Thermodynamic Hypergraphical Model Library](https://github.com/igor-holt/thrml)
 JAX-based library for thermodynamic computing and hypergraph neural networks.
 
+### [OpenClaw Skills](https://github.com/igor-holt/openclaw-skills)
+Production-grade agent infrastructure for stateless LLMs.
+
+---
+
+## 🦀 OpenClaw Skills by @invariantx
+
+Production-grade agent infrastructure:
+
+| Skill | Purpose |
+|-------|---------|
+| `grok-persistent-state` | Persistent project state for stateless LLMs |
+| `mcp-openclaw-bridge` | Turn MCP servers into ClawHub skills |
+| `smithery-mcp-orchestrator` | Secure Smithery orchestration |
+
+```bash
+clawhub install grok-persistent-state
+clawhub install mcp-openclaw-bridge
+clawhub install smithery-mcp-orchestrator
+```
+
+Follow [@invariantx](https://x.com/invariantx) for updates.
+Repo: https://github.com/igor-holt/openclaw-skills
+
 ---
 
 ## 📚 Research & Publications
