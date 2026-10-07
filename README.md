@@ -50,7 +50,7 @@ clawhub install mcp-openclaw-bridge
 clawhub install smithery-mcp-orchestrator
 ```
 
-Follow [@invariantx](https://x.com/invariantx) for updates.
+Follow [@invariantx](https://x.com/holt_igor) for updates.
 Repo: https://github.com/igor-holt/openclaw-skills
 
 ---
