@@ -1,31 +1,66 @@
-## Hi there 👋
+# Igor Holt
 
-Highly motivated software engineer and data scientist with experience in machine learning, natural language processing, and web development. Passionate about innovation, collaboration, and continuous learning.
+**AI Architecture · Genesis Conductor · Thermodynamic Computing**
 
-Expertise
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Holt-blue?logo=linkedin)](https://www.linkedin.com/in/igor-holt/)
+[![Genesis Conductor](https://img.shields.io/badge/Genesis_Conductor-AI_Platform-purple)](https://genesisconductor.io)
 
-- Programming languages: Python, JavaScript, Java
-- Technologies: TensorFlow, PyTorch, React, Node.js
-- Data science tools: Pandas, NumPy, Matplotlib, Scikit-learn
+## About
 
-Current Projects
+I'm an **AI Architect** building the future of autonomous agent systems. Creator of **Genesis Conductor** — a topological reasoning engine for orchestrating AI agents with thermodynamic verification[...]
 
-- [Your current project 1]
-- [Your current project 2]
+## 🔬 Areas of Expertise
 
-Interests
+- **AI Architecture** — Multi-agent systems, A2A protocols, MCP servers
+- **Thermodynamic Computing** — S-ToT verification, Extropic integration
+- **Distributed Systems** — Cloudflare Workers, edge computing, Kubernetes
 
-- AI/ML research and applications
-- Data visualization and storytelling
-- Full-stack web development
+## 🚀 Featured Projects
 
-  
-![Igor Holt](https://github.com/user-attachments/assets/d2b6a6af-4e0e-4b51-98db-503409735649)
+### [Genesis Conductor](https://github.com/Genesis-Conductor-Engine/Genesis-Conductor)
+AI-native application scaffolding engine. The official "Master Control Program" for transforming business ideas into production-ready code.
 
-Collaboration
+### [Ambient Access Layer](https://optimization-inversion.genesisconductor.io)
+Persistent, specialized AI agents accessible from ChatGPT, Claude, Cursor, Gemini CLI, and Codex CLI.
 
-Open to collaborating on projects involving:
+### [MCP Servers](https://github.com/igor-holt/mcp-servers)
+Revenue-generating AI agent skills for DeFi, smart contracts, and Apple toolchain.
 
-- Machine learning model development
-- Data analysis and visualization
-- Web application development
+### [Thermodynamic Hypergraphical Model Library](https://github.com/igor-holt/thrml)
+JAX-based library for thermodynamic computing and hypergraph neural networks.
+
+---
+
+## 📚 Research & Publications
+
+### LID-LIFT Orchestrator v1.4
+Meta-cognitive AI framework for autonomous problem re-framing, graceful degradation, and auditable decision-making.
+
+| Paper | DOI |
+| :--- | :--- |
+| **WP-001: The Protocol** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784144.svg)](https://doi.org/10.5281/zenodo.17784144) |
+| **WP-002: Landauer Context** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784836.svg)](https://doi.org/10.5281/zenodo.17784836) |
+| **WP-003: Dissonance Eviction** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784838.svg)](https://doi.org/10.5281/zenodo.17784838) |
+| **WP-004: Seismic Tree-of-Thought (S-ToT)** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18730653.svg)](https://doi.org/10.5281/zenodo.18730653) |
+
+**Key Contributions:**
+- **LID-LIFT DYNAMIC** — Meta-cognitive control loop for autonomous problem-solving
+- **H-MOC 0.2 Standard** — AI flight recorder for decision provenance
+- **landauer_context Basis** — First-principles planning using Landauer's principle (kT · ln 2)
+- **S-ToT Verification** — Seismic Tree-of-Thought reasoning protocol for thermodynamic validation
+
+---
+
+## 🔗 Links
+
+- 🌐 [genesisconductor.io](https://genesisconductor.io)
+- 📧 igor@kovachenterprises.com
+- 🐦 [@invariantX on X](https://x.com/invariantX)
+
+## 📊 GitHub Stats
+
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igor-holt&show_icons=true&theme=radical)
+
+---
+
+*Building AI systems that think in topologies, not tokens.*
