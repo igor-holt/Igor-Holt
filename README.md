@@ -1,90 +1,47 @@
 # Igor Holt
 
-**AI Architecture · Genesis Conductor · Thermodynamic Computing**
+**Founder, Kovach Enterprises & Genesis Conductor · Verifiable compute, STARK proofs, Rule 30 VDF**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Holt-blue?logo=linkedin)](https://www.linkedin.com/in/igor-holt/)
-[![Genesis Conductor](https://img.shields.io/badge/Genesis_Conductor-AI_Platform-purple)](https://genesisconductor.io)
+Pasadena, Maryland, USA
+Kovach Enterprises founded 2015 · Genesis Conductor started 2025
 
-## About
+A Verifiable Delay Function (VDF) requires a specified number of sequential steps to evaluate, yet produces a unique output that can be efficiently and publicly verified. Rule 30 VDF uses Wolfram's Rule 30 cellular automaton as that sequential function, and STARK proofs so verification stays fast.
 
-I'm an **AI Architect** building the future of autonomous agent systems. Creator of **Genesis Conductor** — a topological reasoning engine for orchestrating AI agents with thermodynamic verification[...]
+I run an independent, bootstrapped studio building verifiable-compute and security tooling. I also work on the ORE (Onchain Revenue Engine) agent swarm and orthogonal-stone-telemetry, and I publish working papers on Zenodo.
 
-## 🔬 Areas of Expertise
+## Featured project: Rule 30 VDF
 
-- **AI Architecture** — Multi-agent systems, A2A protocols, MCP servers
-- **Thermodynamic Computing** — S-ToT verification, Extropic integration
-- **Distributed Systems** — Cloudflare Workers, edge computing, Kubernetes
+Open-source Verifiable Delay Function in Rust, with STARK proofs via Winterfell. Working, tested, unaudited research prototype. No trusted setup.
 
-## 🚀 Featured Projects
+- Repo: https://github.com/igor-holt/rule30-vdf
+- Manifund project (harden, benchmark, document): https://manifund.org/projects/rule-30-vdf--harden-benchmark-document
 
-### [Genesis Conductor](https://github.com/Genesis-Conductor-Engine/Genesis-Conductor)
-AI-native application scaffolding engine. The official "Master Control Program" for transforming business ideas into production-ready code.
+## Other public work
 
-### [Ambient Access Layer](https://optimization-inversion.genesisconductor.io)
-Persistent, specialized AI agents accessible from ChatGPT, Claude, Cursor, Gemini CLI, and Codex CLI.
+- [OpenClaw Skills](https://github.com/igor-holt/openclaw-skills) — OpenClaw / ClawHub skills for persistent agent state, MCP-to-skill bridging, and Smithery orchestration
+- [LidLift MCP](https://github.com/igor-holt/lidlift-mcp) — tool-dissonance control plane for MCP stacks
+- [LID-LIFT research](https://github.com/igor-holt/lid-lift-research) — manuscript copies of the LID-LIFT working papers
+- [Genesis Conductor MCP Servers](https://github.com/igor-holt/mcp-servers) — MCP server packages for Smithery / Glama / MCP.so
+- [igor-holt.github.io](https://github.com/igor-holt/igor-holt.github.io) — personal site repository
 
-### [MCP Servers](https://github.com/igor-holt/mcp-servers)
-Revenue-generating AI agent skills for DeFi, smart contracts, and Apple toolchain.
+## Publications (Zenodo)
 
-### [Thermodynamic Hypergraphical Model Library](https://github.com/igor-holt/thrml)
-JAX-based library for thermodynamic computing and hypergraph neural networks.
+All sole-creator deposits. Version DOIs below.
 
-### [OpenClaw Skills](https://github.com/igor-holt/openclaw-skills)
-Production-grade agent infrastructure for stateless LLMs.
+1. *Information-Thermodynamic Technosignatures: A Feasibility Framework* (7 November 2026) — Zenodo deposit (the record is typed as a journal article but names no journal) — https://doi.org/10.5281/zenodo.24025736
+2. *Beyond the Accelerator: Thermodynamic-Aware Orchestration for SDG 17 Federated Infrastructure* (22 February 2026) — working paper — https://doi.org/10.5281/zenodo.18730653
+3. *Beyond Retry: A Metacognitive Dynamics Framework for Autonomous Agent Failure Recovery* (2 December 2025) — LID-LIFT working paper, 1 of 3 — https://doi.org/10.5281/zenodo.17784144
+4. *The Landauer Context: A Physics-Grounded Energy Basis for Large Language Model Orchestration* (2 December 2025) — LID-LIFT working paper, part 2 — https://doi.org/10.5281/zenodo.17784836
+5. *Dissonance-Weighted Eviction: A Hybrid LRU Protocol for Long-Horizon Agent Memory* (2 December 2025) — LID-LIFT working paper, part 3 — https://doi.org/10.5281/zenodo.17784838
 
----
+## Background
 
-## 🦀 OpenClaw Skills by @invariantx
+5+ years in security and network operations. Associate degree in Computer Science, Anne Arundel Community College.
 
-Production-grade agent infrastructure:
+## Links
 
-| Skill | Purpose |
-|-------|---------|
-| `grok-persistent-state` | Persistent project state for stateless LLMs |
-| `mcp-openclaw-bridge` | Turn MCP servers into ClawHub skills |
-| `smithery-mcp-orchestrator` | Secure Smithery orchestration |
-
-```bash
-clawhub install grok-persistent-state
-clawhub install mcp-openclaw-bridge
-clawhub install smithery-mcp-orchestrator
-```
-
-Follow [@invariantx](https://x.com/holt_igor) for updates.
-Repo: https://github.com/igor-holt/openclaw-skills
-
----
-
-## 📚 Research & Publications
-
-### LID-LIFT Orchestrator v1.4
-Meta-cognitive AI framework for autonomous problem re-framing, graceful degradation, and auditable decision-making.
-
-| Paper | DOI |
-| :--- | :--- |
-| **WP-001: The Protocol** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784144.svg)](https://doi.org/10.5281/zenodo.17784144) |
-| **WP-002: Landauer Context** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784836.svg)](https://doi.org/10.5281/zenodo.17784836) |
-| **WP-003: Dissonance Eviction** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17784838.svg)](https://doi.org/10.5281/zenodo.17784838) |
-| **WP-004: Seismic Tree-of-Thought (S-ToT)** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18730653.svg)](https://doi.org/10.5281/zenodo.18730653) |
-
-**Key Contributions:**
-- **LID-LIFT DYNAMIC** — Meta-cognitive control loop for autonomous problem-solving
-- **H-MOC 0.2 Standard** — AI flight recorder for decision provenance
-- **landauer_context Basis** — First-principles planning using Landauer's principle (kT · ln 2)
-- **S-ToT Verification** — Seismic Tree-of-Thought reasoning protocol for thermodynamic validation
-
----
-
-## 🔗 Links
-
-- 🌐 [genesisconductor.io](https://genesisconductor.io)
-- 📧 igor@kovachenterprises.com
-- 🐦 [@Holt_Igor on X](https://twitter.com/invariantX)
-
-## 📊 GitHub Stats
-
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igor-holt&show_icons=true&theme=radical)
-
----
-
-*Building AI systems that think in topologies, not tokens.*
+- Website: https://kovachenterprises.com
+- GitHub: https://github.com/igor-holt
+- ORCID: https://orcid.org/0009-0008-8389-1297
+- LinkedIn: https://www.linkedin.com/in/igor-holt/
+- X: https://x.com/holt_igor (`@holt_igor`)
